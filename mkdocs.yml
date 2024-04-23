@@ -1,0 +1,8 @@
+site_name: 'backstage-techdocs-sample'
+
+nav:
+  - HomeDir: index.md
+
+plugins:
+  - techdocs-core
+
