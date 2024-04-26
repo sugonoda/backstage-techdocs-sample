@@ -5,4 +5,5 @@ nav:
 
 plugins:
   - techdocs-core
+  - mermaid2
 
